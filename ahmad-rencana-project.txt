@@ -3,7 +3,10 @@ RENCANA CONTEN AHMAD
 -Javascript
  * ES6
  * framework javascript
+  ^ Vue
  -struktur data dasar
 -PHP framework
+ ^ laravel
 -interview
 -vlogs
+-pyton
