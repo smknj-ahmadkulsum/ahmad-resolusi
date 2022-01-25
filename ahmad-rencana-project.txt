@@ -1,0 +1,8 @@
+RENCANA CONTEN AHMAD
+
+-Javascript
+ * ES6
+ * framework javascript
+-PHP framework
+-interview
+-vlogs
